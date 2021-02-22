@@ -1,0 +1,8 @@
+.place {
+  list-style: none;
+  padding: 0px;
+  display: block;
+  max-width: 984px;
+  width: 100%;
+  margin: 0 auto;
+}

@@ -1,0 +1,10 @@
+.place__item {
+  display: grid;
+  grid-template-columns: 460px 1fr;
+  grid-template-rows: auto auto;
+  grid-gap: 48px 40px;
+  padding-bottom: 80px;
+  max-width: 984px;
+  width: 100%;
+  margin: 0 auto;
+}
