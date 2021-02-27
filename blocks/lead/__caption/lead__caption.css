@@ -1,6 +1,5 @@
 .lead__caption {
 	display: block;
-	max-width: 984px;
 	width: 100%;
 	margin: 8px auto 0px;
 	font-style: normal;
@@ -10,3 +9,14 @@
   letter-spacing: 0.15em;
   text-transform: uppercase;
 }
+@media screen and (min-width: 425px) and (max-width: 769px) {
+  .lead__caption {
+    padding: 0 24px;
+  }
+}  
+@media screen and (max-width: 424px) {
+  .lead__caption {
+    padding: 0 16px;
+	  max-width: 425px;
+  }
+} 
