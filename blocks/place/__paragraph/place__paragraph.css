@@ -13,5 +13,8 @@
     font-size: 16px;
   }
 }
-
-
+@media screen  and (max-width: 424px) {
+  .place__paragraph {
+    padding: 0 16px;
+  }
+}
