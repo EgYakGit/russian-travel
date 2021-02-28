@@ -6,12 +6,7 @@
   font-size: 54px;
   line-height: 58px;  
 }
-@media screen and (max-width: 695px) {
-  .intro__title {
-    max-width: 355px;    
-  }
-}
-@media screen and (min-width: 696px) and (max-width: 695px) {
+@media screen and (max-width: 720px) {
   .intro__title {
     max-width: 355px;    
   }

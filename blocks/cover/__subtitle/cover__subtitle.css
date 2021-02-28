@@ -9,12 +9,18 @@
   padding-top: 32px;
   z-index: 1;
 }
+@media screen and (min-width:425px) and (max-width: 540px) {
+  .cover__subtitle {
+    font-size: 16px;
+    line-height: 18px;
+    max-width: 288px;
+  }
+}
 @media screen and (max-width: 424px) {
-  .cover__title {
+  .cover__subtitle {
     font-size: 14px;
     line-height: 16px;
     max-width: 288px;
-    /* max-height: 48px; */
     padding-top: 16px;
   }
 }

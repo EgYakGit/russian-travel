@@ -12,21 +12,21 @@
     margin-bottom: 56px;
   }
 }
-@media screen and (min-width: 575px) and (max-width: 675px) {
+@media screen and (min-width: 615px) and (max-width: 675px) {
   .lead__subtitle {
     max-width: 450px;
     font-size: 25px;
     line-height: 30px;
   }
 }
-@media screen and (min-width: 425px) and (max-width: 574px) {
+@media screen and (min-width: 475px) and (max-width: 614px) {
   .lead__subtitle {
     max-width: 354px;
     font-size: 21px;
     line-height: 25px;
   }
 }
-@media screen and (max-width: 424px) {
+@media screen and (max-width: 474px) {
   .lead__subtitle {
     margin-top: 16px;
     margin-bottom: 40px;

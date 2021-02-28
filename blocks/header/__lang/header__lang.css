@@ -3,16 +3,19 @@
   display: inline-flex;
   margin: 18px 0 6px;
 }
+
 .lang {
   color: #ffffff;
   font-weight: normal;
   font-size: 24px;
   line-height: 28px;
 }
+
 .lang_en {
   text-decoration: none;
   margin-left: 18px;
 }
+
 .lang:hover {
   opacity: 0.8;
   transition: opacity .2s ease-in;
